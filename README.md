@@ -1,2 +1,2 @@
 # Framework Challenge
-A website loading screen of a fake renaissance fair
+A website loading screen for a fake renaissance fair
